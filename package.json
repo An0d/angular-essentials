@@ -1,0 +1,29 @@
+{
+    "name": "an0d-angular-essentials",
+    "displayName": "An0d Angular Essentials",
+    "publisher": "an0d",
+    "description": "Angular Extension Pack for VS Code",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/An0d/angular-essentials.git"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "Angular",
+        "TypeScript"
+    ],
+    "extensionPack": [
+        "Angular.ng-template",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "msjsdiag.debugger-for-chrome",
+        "nrwl.angular-console",
+        "rbbit.typescript-hero"
+    ]
+}
