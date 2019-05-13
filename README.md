@@ -1,6 +1,7 @@
-# An0d Angular Essentials - Extension Pack for VS Code
+# An0d Angular Essentials
+## Angular Extension Pack for VS Code
 
-## Included
+### Included
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
 [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
