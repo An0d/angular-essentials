@@ -11,3 +11,5 @@
 [Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
 
 [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
+
+[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
