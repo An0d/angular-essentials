@@ -1,15 +1,17 @@
-# An0d Angular Essentials
+# An0d Angular Essentials (Extension Pack)
 ## Angular Extension Pack for VS Code
 
 ### Included
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
-[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
-[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-[Angular Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
+[TypeScript Barrel Generator](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules)
+
+[TypeScript Class Organizer](https://marketplace.visualstudio.com/items?itemName=aljazsim.tsco)
 
 [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 
-[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+[Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
